@@ -1,3 +1,5 @@
 Valery Hazzady Fernandez Alvarez
 16
 Con esta materia planeo enriquecer mis bases de programación y aprender más de la POO para futuros proyectos de mi carrera y del mundo laboral.
+Porque ahora la carpeta tiene un archivo en su interior lo que GitHub considera un cambio.
+14. Porque se puede crear un conflicto entre los dos archivos, lo cual conllevaría a utilizar tiempo valioso para solucionar la mezcla de información contenida en ellos.
