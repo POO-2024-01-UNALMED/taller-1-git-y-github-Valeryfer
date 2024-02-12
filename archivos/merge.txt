@@ -1,1 +1,0 @@
-Porque la carpeta no tenía ningún elemento en su interior que Github considerara como un cambio en el proyecto.
